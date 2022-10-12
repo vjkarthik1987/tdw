@@ -2,6 +2,10 @@ body {
     background-color: #ede7e1;
 }
 
+* {
+  box-sizing: border-box;
+}
+
 
 h1, h2 {
     color: #5a228b;
